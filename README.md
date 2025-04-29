@@ -121,4 +121,5 @@ Interactive and intuitive—no coding required! 🎉
 - Scikit-learn & Streamlit communities
 
 Happy coding! ✨
+The OUTPUT have been uploaded in the repo : [output.pdf](output.pdf)
 
