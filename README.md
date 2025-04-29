@@ -100,8 +100,8 @@ Interactive and intuitive—no coding required! 🎉
 
 ## 💾 Model Files Download
 
-- Download the TF-IDF vectorizer: [vectorizer.pkl](https://github.com/yourusername/yourrepo/raw/main/Model%20files/vectorizer.pkl)
-- Download the Naive Bayes model: [spam_detector.pkl](https://github.com/yourusername/yourrepo/raw/main/Model%20files/spam_detector.pkl)
+- Download the TF-IDF vectorizer: [vectorizer.pkl](Model%20files/vectorizer.pkl)
+- Download the Naive Bayes model: [spam_detector.pkl](Model%20files/spam_detector.pkl)
 
 *(Replace `yourusername/yourrepo` with your GitHub path.)*
 
